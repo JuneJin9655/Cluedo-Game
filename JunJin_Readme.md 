@@ -1,0 +1,8 @@
+# Cluedo Game - Jun Jin
+
+## ## Project Description
+This is a simplified command-line version of the classic Cluedo game developed in Python.  
+The player can navigate between rooms and make suggestions to solve the mystery by guessing the correct combination of **Character**, **Weapon**, and **Room**.
+
+1. Ensure Python 3.x is installed.
+2. Navigate to the project directory:
