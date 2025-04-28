@@ -2,7 +2,7 @@
 
 ## Project Description
 This is a simplified command-line version of the classic Cluedo game developed in Python.  
-The player can navigate between rooms and make suggestions to solve the mystery by guessing the correct combination of **Character**, **Weapon**, and **Room**.
+The player can navigate between rooms and make suggestions to solve the mystery by guessing the correct combination of Character, Weapon, and Room.
 
 ## How to Run the Game
 
@@ -16,3 +16,5 @@ cd Cluedo-Game
 
 ### 3: Run the Game(Make sure you have Python 3 installed.)
 python main.py
+
+No external libraries required
